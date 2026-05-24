@@ -6,9 +6,11 @@ AutoStationMaker automates the creation of BBGCS station packages for TBVT, WBVT
 
 ## Download
 
+Latest release: **[v2.0.3](../../releases/tag/v2.0.3)**
+
 | File | Description |
 |------|-------------|
-| `AutoStationMaker_Setup_2.0.0.exe` | Full installer — recommended |
+| `AutoStationMaker_Setup_2.0.3.exe` | Full installer — recommended |
 | `AutoStationMaker2.0.exe` | Standalone EXE |
 
 See the [Releases](../../releases) page to download the latest version.
